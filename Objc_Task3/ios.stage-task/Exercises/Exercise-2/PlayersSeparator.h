@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 
-@interface PlayersSeparator : NSObject
+  @interface PlayersSeparator : NSObject
 
 - (NSInteger)dividePlayersIntoTeams:(NSArray<NSNumber *>*)ratingArray;
 
-@end
+  @end
