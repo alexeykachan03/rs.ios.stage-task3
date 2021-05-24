@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 
-@interface LexicographicallyMinimal : NSObject
+  @interface LexicographicallyMinimal : NSObject
 
--(NSString *)findLexicographicallyMinimalForString1:(NSString *)string1 andString2:(NSString *)string2;
+    -(NSString *)findLexicographicallyMinimalForString1:(NSString *)string1 andString2:(NSString *)string2;
 
-@end
+  @end
